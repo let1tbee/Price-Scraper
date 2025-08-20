@@ -120,6 +120,7 @@ The application will:
 ## 📊 Sample Output
 
 The application generates a Google Sheet file with analysis results. Google sheet example could be found in 'Price_scraper_results_example.xlsx'
+
 <img width="1315" height="528" alt="зображення" src="https://github.com/user-attachments/assets/5f643c8b-8abe-4daf-aa78-d33a6bac0dba" />
 
 ## 📝 Logging

@@ -1,4 +1,4 @@
-from web_scrapper import scrape_data
+from web_scraper import scrape_data
 from google_sheets_handler import data_to_gspread, google_conf, update_google_sheet
 from logger import get_logger
 

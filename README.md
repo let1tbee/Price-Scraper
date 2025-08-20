@@ -84,7 +84,7 @@ The application will:
 
 ### Workflow
 
-1. **Web Scraping** (`web_scrapper.py`)
+1. **Web Scraping** (`web_scraper.py`)
    - Makes HTTP requests to target websites
    - Parses HTML with BeautifulSoup
    - Extracts product information
@@ -119,7 +119,7 @@ The application will:
 ```
 ## 📊 Sample Output
 
-The application generates an Google Sheet file with analysis results. Google sheet example could be found in 'Price_scrapper_results_example.xlsx'
+The application generates a Google Sheet file with analysis results. Google sheet example could be found in 'Price_scraper_results_example.xlsx'
 
 ## 📝 Logging
 

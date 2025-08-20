@@ -108,7 +108,7 @@ The application will:
 
 ```
 ├── main.py               # Main entry point
-├── web_scrapper.py       # Web scraping functionality
+├── web_scraper.py       # Web scraping functionality
 ├── google_sheets_handler.py  # Google Sheets integration
 ├── google_auth.py        # Google authentication
 ├── config.py             # Configuration settings

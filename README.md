@@ -1,6 +1,8 @@
 # Web Price Scraper with Google Sheets Integration
 
-A robust web scraping application that extracts product data from e-commerce websites and automatically organizes the information in Google Sheets with proper formatting and styling.
+A robust web scraping application that extracts product data from e-commerce websites and automatically organizes the information in Google Sheets with proper formatting and styling. 
+
+This application retrieves items from a test e-commerce webpage: https://webscraper.io/test-sites/e-commerce/static/computers/laptops.
 
 ## 🚀 Features
 
